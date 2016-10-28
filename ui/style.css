@@ -13,10 +13,10 @@ body {
 }
 
 .bold {
-    font-weight: italic;
+    font-weight: bold;
 }
 
 .img-medium {
-    height: 200px;
+    height: 1000px;
 }
 
